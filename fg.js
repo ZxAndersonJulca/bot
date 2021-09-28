@@ -114,8 +114,8 @@ const owner = confi.ownerN
 const mods = confi.mods
 
 //---------𝗥𝗘𝗗𝗘𝗦 𝗦𝗢𝗖𝗜𝗔𝗟𝗘𝗦---------
-const soportefg = 'https://chat.whatsapp.com/G5sXrkhJ0pb0Tu8nhWLaFK' 
-const instafg = 'https://www.instagram.com/fg98._'
+const soportefg = 'https://www.facebook.com/anderson.julca.15' 
+const instafg = 'https://www.instagram.com/andersonjulca15/'
 //--anti delete 
 antidel = false
 ngetik = false
